@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# In this challenge I will be editing and adjusting starting code to desired criteria  
 # Module challenge 1 : README
 User Story
 - AS A marketing agency
